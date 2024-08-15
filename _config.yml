@@ -120,3 +120,6 @@ testimonial:
 
 sass:
   style: compressed
+
+jekyll_tidy:
+  compress_html: true
