@@ -1,5 +1,9 @@
-# frozen_string_literal: true
+# Gemfile
 
 source "https://rubygems.org"
 
-gem "jekyll-tidy", group: :jekyll_plugins
+gem "jekyll", "~> 4.3.3"
+
+group :jekyll_plugins do
+    gem "jekyll-tidy", "~> 0.2.0"
+end
