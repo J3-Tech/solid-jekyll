@@ -7,6 +7,8 @@ analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://yourdomain.com"
 
+fontawesome_kit_url: https://kit.fontawesome.com/7690dbcdcd.js
+
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
