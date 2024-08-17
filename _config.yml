@@ -6,7 +6,7 @@ description: "Write an awesome description for your new site here. You can edit 
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 author: "John Doe"
-url: "http://yourdomain.com"
+url: "https://solid-jekyll.j3-tech.com"
 
 fontawesome_kit_url: https://kit.fontawesome.com/7690dbcdcd.js
 
@@ -127,3 +127,4 @@ jekyll_tidy:
 plugins:
   - jekyll-seo-tag
   - jekyll-tidy
+  - jekyll-sitemap
