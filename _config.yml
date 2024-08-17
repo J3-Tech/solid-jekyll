@@ -123,3 +123,7 @@ sass:
 
 jekyll_tidy:
   compress_html: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-tidy
