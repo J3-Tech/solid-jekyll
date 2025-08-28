@@ -24,6 +24,12 @@ colors: #in hex code if not noted else
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
 
+services:
+  - title: Example
+    intro: This is an example
+    icon: fa-person-digging
+    permalink: /services/example
+
 # Making projects separate from posts
 collections:
   projects:
